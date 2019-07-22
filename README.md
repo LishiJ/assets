@@ -1,1 +1,1 @@
-# LishiJ Stitic Resources
+# LishiJ Static Resources

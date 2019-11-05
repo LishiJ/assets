@@ -1,1 +1,1 @@
-# LishiJ Static Resources
+# Seiwhale Static Resources
